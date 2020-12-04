@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Ahmad Raza
+Build-Jdk: 14.0.2
+Implementation-Title: SpringBootApplication Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: boot
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
